@@ -2,7 +2,7 @@ node {
     // some block
     stage('git') {
     // some block
-     git 'https://github.com/vijaybhaskarreddyy/spring-petclinic.git'
+     git 'https://github.com/spring-projects/spring-mvc-showcase.git'
     }
     stage('build') {
     // some block
